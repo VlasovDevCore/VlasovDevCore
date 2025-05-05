@@ -46,7 +46,7 @@
 <h4>Цифровые профили:</h4>
   <a href="https://codepen.io/VlasovDevCore" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="40" height="40" alt="codepen logo"  /></a>
   <a href="https://t.me/vlasov_working" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="37" alt="telegram logo"  /></a>
-  <a href="https://t.me/vlasov_working" target="_blank"><img src="https://vlasovdevcore.ru/favicon/favicon.svg" width="40" height="40" alt="telegram logo"  /></a>
+  <a href="https://vlasovdevcore.ru/" target="_blank"><img src="https://vlasovdevcore.ru/favicon/favicon.svg" width="40" height="40" alt="telegram logo"  /></a>
 </div>
 
 <img height="20"/>
